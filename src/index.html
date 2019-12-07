@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Sulphur+Point&display=swap" rel="stylesheet">
+  <title>Find a Doc</title>
+</head>
+<body>
+  <div class="container">
+    <form id=doc-search>
+      <div class="jumbotron jumbotron-fluid">
+        <h1>Find a Doc</h1>
+      </div>
+      <h3>We match you with Providers in the Portland Area</h3>
+      <div class="image"></div>
+      <div class="row">
+        <div class="col-md-6">
+          <h4>Search by medical concern:</h4>
+          <input id="concern" class="form-control" type="text" name="input" placeholder="e.g. earwax build-up">
+        </div>
+        <div class="col-md-6">
+          <h4>Search by Provider's name:</h4>
+          <input id="name" class="form-control" type="text" name="input" placeholder="e.g. John Dolittle">
+        </div>
+      </div>
+      <button type="submit" class="btn btn-outline-info" id="search">Search</button>
+      <button type="reset" class="btn btn-outline-info" value="Reset" onClick="window.location.reload()">Redo Search</button>
+    </form>
+    <div class="errors"></div>
+    <div class="showData"></div>
+  </div>
+</body>
+</html>

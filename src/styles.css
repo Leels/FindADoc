@@ -1,0 +1,31 @@
+body {
+  font-family: 'Sulphur Point', sans-serif;
+  color: #008b8b;
+}
+
+.jumbotron {
+  border-radius: 30px;
+  border: solid #008b8b;
+}
+
+h1 {
+  text-align: center;
+  font-size: 400%;
+}
+
+button {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  padding-bottom: 40px;
+  text-align: center;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
