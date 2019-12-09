@@ -18,7 +18,8 @@ export class GiphyApi {
       let jsonifiedResponse2 = await response2.json();
       return jsonifiedResponse2;
     } catch(error) {
-      console.error("There was an error handling your request: " + error.message);
+      let errorMessage = ("There was an error handling your request: " + error.message);
+      return errorMessage;
     }
   }
 }
