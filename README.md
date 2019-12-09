@@ -22,7 +22,8 @@
 * npm run start to build and start the dev server.
 * npm run lint to explicitly run ESLint.
 
-#### Please let me know if you have any problems!
+#### Git Commit History
+![git commit history](https://raw.githubusercontent.com/Leels/FindADoc/master/assets/commit-history-screenshot1.png "Commit History1")
 
 ### Technologies Used
 * HTML
