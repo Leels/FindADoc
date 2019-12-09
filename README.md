@@ -22,9 +22,6 @@
 * npm run start to build and start the dev server.
 * npm run lint to explicitly run ESLint.
 
-#### Git Commit History
-![git commit history](https://raw.githubusercontent.com/Leels/FindADoc/master/assets/commit-history-screenshot1.png "Commit History1")
-
 ### Technologies Used
 * HTML
 * CSS
@@ -42,3 +39,8 @@
 #### This software is licensed under the MIT license.
 
 #### Copyright (c) 2019 Lela Smith
+
+#### Git Commit History
+![git commit history](https://raw.githubusercontent.com/Leels/FindADoc/master/assets/commit-history-screenshot1.png "Commit History1")
+![git commit history](https://raw.githubusercontent.com/Leels/FindADoc/master/assets/commit-history-screenshot2.png "Commit History2")
+![git commit history](https://raw.githubusercontent.com/Leels/FindADoc/master/assets/commit-history-screenshot3.png "Commit History3")
